@@ -18,9 +18,9 @@
 	"prefer-stable": true,
     "require": {
 		"php": "8.3 - 8.5",
-        "mheads/yii-filestorage-db": "1.0.0-beta1",
 		"yiisoft/active-record": "^1.0.2",
-		"yiisoft/event-dispatcher": "^1.1"
+		"yiisoft/event-dispatcher": "^1.1",
+        "mheads/yii-filestorage-db": "^1.0"
     },
 	"require-dev": {
 		"ext-pdo": "*",
