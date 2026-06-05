@@ -14,8 +14,6 @@
 			"role": "Developer"
 		}
 	],
-	"minimum-stability": "alpha",
-	"prefer-stable": true,
     "require": {
 		"php": "8.3 - 8.5",
 		"yiisoft/active-record": "^1.0.2",
